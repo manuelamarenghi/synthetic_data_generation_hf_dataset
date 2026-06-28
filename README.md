@@ -52,8 +52,6 @@ The workflow consists of five main stages:
 └── README.md
 ```
 
-*(Adapt the structure above if folders differ.)*
-
 ---
 
 # Generative Models
