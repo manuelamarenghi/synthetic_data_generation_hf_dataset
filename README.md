@@ -42,25 +42,8 @@ The workflow consists of five main stages:
 
 ```text
 .
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── synthetic/
-│
+|
 ├── notebooks/
-│
-├── src/
-│   ├── preprocessing/
-│   ├── generation/
-│   │   ├── ddpm/
-│   │   ├── timegan/
-│   │   └── timevae/
-│   ├── evaluation/
-│   ├── privacy/
-│   ├── survival/
-│   └── utils/
-│
-├── results/
 │
 ├── docs/
 │   └── thesis_evaluation_framework_pipeline_v4.png
